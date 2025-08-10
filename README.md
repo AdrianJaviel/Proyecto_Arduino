@@ -12,7 +12,7 @@ Fueron desarrollados hace aproximadamente **3 años**, y he decidido subirlos co
 Aunque estos proyectos son antiguos, representan una etapa importante en mi aprendizaje.  
 Quiero compartirlos para que puedan ver el **progreso y evolución** que he tenido a lo largo del tiempo.
 
-## ⚙️ Temas que podrás encontrar
+## ⚙️ Temas que a futuro podras encontrar
 - Encendido y apagado de LEDs 💡
 - Uso de sensores básicos 🔍
 - Pequeñas automatizaciones 🤖
